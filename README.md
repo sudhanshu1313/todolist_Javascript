@@ -8,7 +8,7 @@ Simple and clean user interface
 Add new tasks with ease
 Dynamic task management functionality
 
-Check out my project live : -  <a href="">Todo List</a>
+Check out my project live : -  <a href="https://sudhanshu1313.github.io/todolist_Javascript/">Todo List</a>
 
 <img src="https://github.com/sudhanshu1313/todolist_Javascript/blob/main/TodoList.png" alt="calculator" width="300" height="350px">
  
