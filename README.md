@@ -10,5 +10,5 @@ Dynamic task management functionality
 
 Check out my project live : -  <a href="">Todo List</a>
 
-<img src="" alt="calculator" width="250" height="350px">
+<img src="https://github.com/sudhanshu1313/todolist_Javascript/blob/main/TodoList.png" alt="calculator" width="250" height="350px">
  
