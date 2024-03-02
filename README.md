@@ -1,7 +1,7 @@
 # Todolist in Javascript
 Introducing my latest project: a sleek and efficient ToDo list web application! 💼✨
 
-This ToDo app, built with HTML, CSS, and JavaScript, helps users organize their tasks effortlessly. With a  <b>minimalist design </b> and <b>intuitive interface </b>, users can easily <b> add </b>, <b> edit </b>,, and <b> delete </b> tasks on the go. 💻📝
+This ToDo app, built with HTML, CSS, and JavaScript, helps users organize their tasks effortlessly. With a  <b>Minimalist design </b> and <b>intuitive interface </b>, users can easily <b> Add </b>, <b> Edit </b>, and <b> Delete </b> tasks on the go. 💻📝
 
 Key Features:
 Simple and clean user interface
