@@ -10,5 +10,8 @@ Dynamic task management functionality
 
 Check out my project live : -  <a href="https://sudhanshu1313.github.io/todolist_Javascript/">Todo List</a>
 
+![Demo GIF](https://github.com/sudhanshu1313/todolist_Javascript/blob/main/Todo_List.gif)
+
+
 <img src="https://github.com/sudhanshu1313/todolist_Javascript/blob/main/TodoList.png" alt="calculator" width="300" height="350px">
  
